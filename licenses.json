@@ -1,0 +1,8 @@
+{
+  "TMM-001": {
+    "scripts": {
+      "server-start": true
+    },
+    "hostname": "FulterDev"
+  }
+}
