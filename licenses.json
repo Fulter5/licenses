@@ -2,7 +2,7 @@
   "TMM-001": {
     "scripts": {
       "server-start": false,
-      "zombies": true
+      "zombies": false
     },
     "hostname": "FulterDev"
   }
